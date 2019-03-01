@@ -20,3 +20,7 @@ Not sure about current helicity which may need the higher ell.
 Note that to run these files you need the proper python distribution with axulary packages numpy, scipy, astropy(reading fits)
 and PySHTools. All this available on repository of manjaro linux (derivative of archlinux). I don't know about others.
 Also in test files there are some path settings to save figures. Be aware!
+
+##############
+Update and clean. I made artificial synoptic maps for magnetic field components, put them in fits files.
+To run the test just run test.ipynb in jupiter env.
